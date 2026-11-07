@@ -1,0 +1,16 @@
+{
+  "brand": {
+    "status": "provisional",
+    "source": "src/assets/mark.png",
+    "blue": "#314ce6",
+    "indigo": "#2016a5"
+  },
+  "semantic": {
+    "primary": "--brand-blue",
+    "primary-hover": "--brand-indigo",
+    "focus": "--brand-blue",
+    "typography": "--ui-font",
+    "codeTypography": "--mono"
+  },
+  "implementation": "src/tokens.css"
+}

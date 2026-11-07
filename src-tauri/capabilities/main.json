@@ -1,0 +1,7 @@
+{
+  "$schema": "../gen/schemas/desktop-schema.json",
+  "identifier": "local-reader",
+  "description": "The main window delegates file picking and validated reads to application commands.",
+  "windows": ["main"],
+  "permissions": []
+}
